@@ -3,3 +3,4 @@ languageCode = "ja-jp"
 title = "Jumboly()"
 theme = "hermit"
 canonifyurls = true
+publishDir = "docs"
