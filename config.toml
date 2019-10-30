@@ -1,0 +1,5 @@
+baseURL = "https://www.jumboly.jp/blog"
+languageCode = "ja-jp"
+title = "Jumboly()"
+theme = "hermit"
+canonifyurls = true
